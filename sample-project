@@ -126,6 +126,7 @@
             }
             .tweet-container {
                 top: 80px;
+                CBD
             }
             .content{
                 max-width: 630px;
