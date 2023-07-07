@@ -115,7 +115,7 @@
                 line-height: 61px;
                 padding-bottom: 10px;
             }
-            .description {
+           ] .description {
                 font-size: 26px;
                 line-height: 30px;
             }
@@ -130,6 +130,7 @@
             .content{
                 max-width: 630px;
                 min-width: 630px;
-            }
+                min-width: 630px;   
+           }
         }
 
